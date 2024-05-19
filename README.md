@@ -1,4 +1,4 @@
-# sound
+# Sound Visualization
 
 ## Description
 
