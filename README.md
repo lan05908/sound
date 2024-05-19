@@ -8,7 +8,7 @@ This is a sound visualization that will display in browser using html and Javasc
 
 ### Dependencies
 
-on PC
+any device that can run html.
 
 ### Installing
 
