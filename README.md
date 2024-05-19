@@ -12,11 +12,11 @@ on PC
 
 ### Installing
 
-download the two files provided, calc.html and calculate.js. 
+download the provided files. 
 
 ### Executing program
 
-Download the provided files and run the calc.html. There will be a html page pop out on your default browser.
+After downloaded the provided files. You can use any music file you have, and change the file name in sketch2.js at line 40(you will see the part 'xxx.mp3'), change the file name and put you file in the same folder with the provided files. Then run the index2.html. Press space bar to start/pause the music. Press 'c' for a clap sound. 
 
 
 ## Authors
