@@ -37,7 +37,7 @@ window.onload = function (){
 };
 
 function preload() {
-    song = loadSound('disco yes.mp3');
+    song = loadSound('xxx.mp3');
     song.setVolume(0.35);
     clap = loadSound('clap.mp3');
     clap.setVolume(1);
