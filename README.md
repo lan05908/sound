@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a sound visualization that will display in browser using html and Javascript. The libraries I use are p5.js and p5sound.js.
+This is a sound visualization that will display in browser using html and Javascript. The libraries I use are p5.js, p5so.und.js, and tweakpane.
 
 ## Getting Started
 
